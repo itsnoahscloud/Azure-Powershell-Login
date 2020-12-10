@@ -1,2 +1,2 @@
 # Azure-Powershell-Login
-How to login in Azure using Powershell
+This is how to login in Azure using Powershell and az
