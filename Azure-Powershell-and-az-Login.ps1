@@ -13,10 +13,10 @@ az login --tenant 'abcd1234-ab12-1234-ab12-123456abcdef'
 # Check PowerShell Subscription
 get-azsubscription
 
-# Check Azure Accounts
+# Check az account
 az account list --output table
 
-# Optional: Clear accounts if needed
+# Optional: Clear az accounts if needed
 az account clear
 
 # Optional: Set PowerShell Subscription to default
