@@ -9,7 +9,6 @@ connect-azaccount
 
 az login --tenant 'abcd1234-ab12-1234-ab12-123456abcdef'
 
-
 # Check PowerShell Subscription
 get-azsubscription
 
